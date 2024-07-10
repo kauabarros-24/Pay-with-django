@@ -1,1 +1,2 @@
-#Payments with Django rest and react
+#Page of donate for a simple people
+#Django + Stripe api
